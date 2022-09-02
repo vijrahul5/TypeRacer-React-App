@@ -1,4 +1,4 @@
-const API_NAME = "http://api.quotable.io/random";
+const API_NAME = "https://api.quotable.io/random";
 
 export function getStartingIndexOfWords(textWordArr) {
   let arr = [];
